@@ -68,6 +68,10 @@ QQQ_rotation/
 此專案支援 **兩種資料來源**：  
 1. **PostgreSQL 資料庫**（適合有金融資料庫的使用者）  
 2. **CSV 範例資料**（適合沒有資料庫，只想跑 demo 的使用者）
+3. 
+### 安裝環境
+```bash
+pip install -r requirements.txt
 
 ---
 
