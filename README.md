@@ -15,7 +15,7 @@
 ---
 
 ## 📈 績效展示
-（這裡放圖，例如 NAV 曲線、Sharpe Ratio、MDD、Turnover 等）
+（這裡放圖，同時比較多因子策略，例如 NAV 曲線、Sharpe Ratio、MDD、Turnover 等）
 
 ![](images/nav_vs_benchmark.png)
 
