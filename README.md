@@ -17,6 +17,8 @@
 （比較多口袋因子策略(multifactor)、納斯達克QQQ、CM每月再平衡、XLKETF，例如 NAV 曲線、Sharpe Ratio、MDD、等）
 
 口袋多因子策略   = 我研發的目前上架的主流美股策略
+
+
 CM每月再平衡策略 = QQQrotation(這裡為每月再平衡)
 
 ![](images/QQQ_rotation&multifactor_benchmark.png)
