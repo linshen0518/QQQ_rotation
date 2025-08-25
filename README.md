@@ -16,7 +16,8 @@
 ## 📈 績效展示
 （這裡放圖，同時比較多因子策略(multifactor)，例如 NAV 曲線、Sharpe Ratio、MDD、Turnover 等）
 
-[![](QQQ_rotation&multifactor_benchmark.png)](https://github.com/linshen0518/QQQ_rotation/commit/01e04817c91556f926cb26d0c2c406ece8d9924c)
+![](images/QQQ_rotation&multifactor_benchmark.png)
+
 
 ---
 
