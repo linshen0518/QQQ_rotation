@@ -50,7 +50,7 @@ QQQ_rotation/
 ├── requirements.txt         # 相依套件清單 (pandas, numpy, matplotlib, sqlalchemy, tqdm)
 │
 ├── src/                     # 核心程式碼
-│   └── qqq_rotation.py      # 主程式（已去敏 DB_URI，需自行修改）
+│   └── qqq_rotation.py      # 主程式（ DB_URI，需自行修改）
 │
 ├── notebooks/               # Jupyter Notebook Demo
 │   └── strategy_demo.ipynb  # 簡化範例，展示回測流程
