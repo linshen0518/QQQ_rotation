@@ -48,17 +48,25 @@ QQQ_rotation/
 │
 ├── README.md                # 專案介紹（策略說明、績效展示）
 ├── requirements.txt         # 相依套件清單 (pandas, numpy, matplotlib, sqlalchemy, tqdm)
+
+
 │
 ├── src/                     # 核心程式碼
 │   └── qqq_rotation.py      # 主程式（ DB_URI，需自行修改）
+
+
 │
 ├── notebooks/               # Jupyter Notebook Demo
 │   └── strategy_demo.ipynb  # 簡化範例，展示回測流程
+
+
 │
 ├── data/                    # 範例資料（僅用於 demo，不含公司資料）
 │   ├── price.csv
 │   ├── market_cap.csv
 │   └── etf_holdings.csv
+
+
 │
 └── images/                  # 成果圖
     └── nav_vs_benchmark.png
